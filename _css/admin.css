@@ -1,0 +1,11 @@
+.font-to-back {
+	background-color: lightblue;
+}
+.front-to-back div {
+	margin-bottom: 1em;
+	//border: 1px solid red;
+	//background-color: grey;
+	color: dodgerblue;
+	font-size: 1em;
+	font-variant: small-caps;
+}
